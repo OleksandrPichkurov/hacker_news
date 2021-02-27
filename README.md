@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Prerequisites](#Prerequisites)
+* [PreRequirements](#PreRequirements)
 * [Setup](#setup)
 
 
@@ -31,7 +31,7 @@ Project is created with:
 * djangorestframework==3.12.2
 * django-crontab==0.7.1
 	
-## Prerequisites
+## PreRequirements
 Make sure you have already installed both Docker Engine and Docker Compose. 
 You don’t need to install Python or PostgreSQL, as both are provided by Docker images.
 
