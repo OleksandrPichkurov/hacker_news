@@ -11,6 +11,18 @@
 This project is copy of https://news.ycombinator.com/ for train my skill.
 Here you can create your posts and attach links, write comments and vote for your favorite posts. 
 Also at the end of each day at 23:59 the votes are reset.
+
+Project documented with Postman collection: * https://documenter.getpostman.com/view/14675872/TWDdht4S
+Also deployed on Heroku: * https://hacker-news-amz.herokuapp.com/post/
+
+Url examples for site discovery :
+
+* post/
+* post/1/
+* comment/
+* comment/1/
+* vote/
+* vote/1/
 	
 ## Technologies
 Project is created with:
