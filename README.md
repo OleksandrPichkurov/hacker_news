@@ -23,6 +23,11 @@ Url examples for site discovery :
 * comment/1/
 * vote/
 * vote/1/
+
+Test user:
+
+* login: testuser
+* password: tempo111
 	
 ## Technologies
 Project is created with:
